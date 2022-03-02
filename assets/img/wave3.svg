@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 351 184" width="351" height="184">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.388;fill: #089469 } 
+	</style>
+	<g id="Group 6">
+		<g id="Group 9">
+			<g id="Group 10 copy 2">
+				<path id="Rounded Rectangle 3 copy 4" class="shp0" d="M1 19C1 19 55 62 175 19C295 -24 351 19 351 19L351 162C351 174.15 341.15 184 329 184L23 184C10.85 184 1 174.15 1 162L1 19Z" />
+			</g>
+		</g>
+	</g>
+</svg>
